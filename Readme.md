@@ -22,7 +22,15 @@ Setup for
 
 ---
 
-## To update all packages use
+## To install dependencies use
+
+```
+npm install
+```
+
+---
+
+## To update all dependencies use
 
 ```
 npx npm-check-updates -u
